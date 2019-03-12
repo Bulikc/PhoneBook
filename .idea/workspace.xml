@@ -11,7 +11,12 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/VK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/VK/sample/Controllers/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/VK/sample/FXML/Edit.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/VK/sample/FXML/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/VK/sample/Start/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/Controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/EditController.java" afterDir="false" />
@@ -143,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/sample/Controllers/Controller.java" />
         <option value="$PROJECT_DIR$/src/sample/FXML/Edit.fxml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/Controller.java" />
       </list>
     </option>
   </component>
@@ -210,7 +216,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552416617926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552416755731" />
     <property name="dynamic.classpath" value="false" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -324,12 +330,12 @@
       <workItem from="1552403681372" duration="1546000" />
       <workItem from="1552406901671" duration="2671000" />
       <workItem from="1552414452441" duration="1653000" />
-      <workItem from="1552416141367" duration="268000" />
+      <workItem from="1552416141367" duration="512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10193000" />
+    <option name="totallyTimeSpent" value="10437000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +348,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" weight="0.24962178" />
